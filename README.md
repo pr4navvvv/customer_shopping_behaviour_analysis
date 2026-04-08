@@ -170,4 +170,52 @@ These recommendations can help improve profitability and customer retention. :co
 
 ---
 
-## Project Structure
+
+
+---
+
+## How to Run the Project
+
+### Step 1 - Python
+Install dependencies
+
+pip install pandas numpy psycopg2
+
+Run the notebook for data cleaning.
+
+---
+
+### Step 2 - PostgreSQL
+Import cleaned dataset into PostgreSQL.
+
+Run SQL queries to generate insights.
+
+---
+
+### Step 3 - Power BI
+Open the dashboard file in Power BI Desktop.
+
+Refresh data connection if required.
+
+---
+
+## Dashboard Preview
+
+The Power BI dashboard provides interactive visualization of:
+
+- Customer distribution
+- Revenue by category
+- Sales by category
+- Revenue by age group
+- Sales by age group
+- Subscription insights
+
+<img width="1177" height="646" alt="image" src="https://github.com/user-attachments/assets/b005a4df-b28f-4895-90f1-f8748995d954" />
+
+
+---
+
+## Author
+
+Pranav Prakash
+
